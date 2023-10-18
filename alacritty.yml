@@ -773,7 +773,7 @@ key_bindings:
     action: ToggleFullscreen
   - key: Return
     mods: Control
-    chars: "\x80"
+    chars: "\x1b[[CE"
   #- { key: Paste,                                       action: Paste          }
   #- { key: Copy,                                        action: Copy           }
   #- { key: L,         mods: Control,                    action: ClearLogNotice }
